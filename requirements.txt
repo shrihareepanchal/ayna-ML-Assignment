@@ -1,0 +1,7 @@
+torch>=1.10
+torchvision>=0.11
+Pillow>=9.0
+matplotlib>=3.5
+wandb>=0.16
+notebook
+tqdm
